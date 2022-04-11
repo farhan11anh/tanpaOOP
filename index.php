@@ -54,6 +54,7 @@ if($_SESSION['status'] != "login"){
 		<?php } ?>
 		<br>
 		<a href="insert.php" class="btn btn-primary mb-2">Tambah Data</a>
+		<a href="materiScore.php" class="btn btn-primary mb-2">Nilai Materi</a>
 		<table class="table table-bordered mt-4" id="myTable">
 			<thead>
 				<tr>

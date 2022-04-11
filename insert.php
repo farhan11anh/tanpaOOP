@@ -45,7 +45,7 @@
 				<input type="text" name="description" class="form-control">
 			</div>
 			<div class="mb-3">
-				<label class="form-label">File</label>
+				<label class="form-label">File Rekap Nilai</label>
 				<input type="file" name="file" class="form-control">
 			</div>
 			<div class="mb-3">
